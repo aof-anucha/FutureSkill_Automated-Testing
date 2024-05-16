@@ -1,0 +1,8 @@
+email: test12117@gmail.com
+firstname: __FIRSTNAME__
+lastname: __LASTNAME__
+phoneNumber: __PHONENUMBER__
+newPassword: Password123!
+confirmPassword: Password123!
+valid_password: Password123!
+invalid_password: Password456!
